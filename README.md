@@ -1,0 +1,1 @@
+Projekt 1 : In diesem Projekt entwickeln wir eine Karteikarten-App, die Studierenden unseres Studiengangs dabei helfen soll, ihre Vorlesungen besser zu lernen
